@@ -10,3 +10,7 @@ VISI
 TARGET UMUM
 1. Terwujudnya produk HMIS (dengan EMR sebagai intinya) untuk PTC.
 2. Terwujudnya produk BMIS (dengan Billing sebagai intinya) untuk PTC.
+
+TARGET KHUSUS
+1. Mengembangkan platform pengelolaan data keluarga.
+2. Masuk ke freelance untuk mendapatkan tambahan income.
