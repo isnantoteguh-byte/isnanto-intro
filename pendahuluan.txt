@@ -10,3 +10,4 @@ VISI
 TARGET UMUM
 1. Terwujudnya produk HMIS (dengan EMR sebagai intinya) untuk PTC.
 2. Terwujudnya produk BMIS (dengan Billing sebagai intinya) untuk PTC.
+3. Terwujudnya produk PTC Cloud untuk memenuhi kebutuhan storage dan meeting perusahaan (enterprise) maupun perorangan.
